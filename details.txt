@@ -1,0 +1,35 @@
+Tableau Z
+
+Images : de 1 à 72 
+	de 73 à 144
+	de 145 à 216
+	de 217 à 288
+	de 289 à 360
+	de 361 à 432
+	de 433 à 504
+
+
+
+1 the_orangeLBP;
+2 the_frLBP;
+3 kitkatLBP;
+4 The_fpassionLBP;
+5  CocaColaLBP;
+6 Pringles_sourcreamLBP;
+7 Pringles_paprikaLBP
+
+fruits_r
+orange
+citron
+paprika
+sour cream
+coca
+kitkat
+
+coca
+kitkat
+paprika
+sourcream
+citron
+fruit_r
+orange
