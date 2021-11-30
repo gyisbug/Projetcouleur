@@ -1,0 +1,2 @@
+GAO YAN
+La déformation basée sur la B-spline distribue les points à un certain intervalle. Au fur et à mesure que la distance entre les nœuds diminue, les changements entre les images deviennent irréguliers. Nous devons choisir la taille appropriée en fonction de la différence globale et de la différence locale avant l'image
